@@ -1,0 +1,133 @@
+{
+  "geral": [
+    {
+      "icon": "camera",
+      "label": "Equipamentos de Segurança",
+      "content": "Gerencie câmeras, sensores e alarmes.",
+      "identificador": "seguranca",
+      "id": "508f"
+    },
+    {
+      "icon": "car",
+      "label": "Veículos",
+      "content": "Administre a frota de veículos da empresa.",
+      "identificador": "veiculos",
+      "id": "c0e6"
+    },
+    {
+      "icon": "pentool",
+      "label": "Armamentos",
+      "content": "Controle o inventário de armamentos não letais.",
+      "identificador": "armamento",
+      "id": "3b05"
+    }
+  ],
+  "seguranca": [
+    {
+      "id": "1",
+      "nome": "Camera de Seguranca",
+      "quantidade": 10,
+      "preco": 1500
+    },
+    {
+      "id": "2",
+      "nome": "Alarme",
+      "quantidade": 5,
+      "preco": 1000
+    },
+    {
+      "id": "3",
+      "nome": "Cerca Eletrica",
+      "quantidade": 3,
+      "preco": 800
+    },
+    {
+      "id": "1cb8",
+      "nome": "Rastreadores",
+      "quantidade": 4,
+      "preco": 12000
+    }
+  ],
+  "veiculos": [
+    {
+      "id": "1",
+      "nome": "Rastreador",
+      "quantidade": 10,
+      "preco": 500
+    },
+    {
+      "id": "2",
+      "nome": "Bloqueador",
+      "quantidade": 5,
+      "preco": 400
+    },
+    {
+      "id": "3",
+      "nome": "Camera Veicular",
+      "quantidade": 3,
+      "preco": 300
+    }
+  ],
+  "armamento": [
+    {
+      "id": "1",
+      "nome": "Revolver",
+      "quantidade": 10,
+      "preco": 2000
+    },
+    {
+      "id": "2",
+      "nome": "Pistola",
+      "quantidade": 5,
+      "preco": 2500
+    },
+    {
+      "id": "3",
+      "nome": "Fuzil",
+      "quantidade": 3,
+      "preco": 3000
+    },
+    {
+      "id": "9dbd",
+      "nome": "Granada",
+      "quantidade": 3,
+      "preco": 3000
+    },
+    {
+      "id": "ec7b",
+      "nome": "Metralhadora",
+      "quantidade": 7,
+      "preco": 7000
+    },
+    {
+      "id": "0eef",
+      "nome": "Mina Terrestre",
+      "quantidade": 7,
+      "preco": 9000
+    },
+    {
+      "id": "4d80",
+      "nome": "teste",
+      "quantidade": 3,
+      "preco": 222222
+    },
+    {
+      "id": "ff49",
+      "nome": "teste",
+      "quantidade": 3,
+      "preco": 222222
+    },
+    {
+      "id": "41ba",
+      "nome": "teste",
+      "quantidade": 3,
+      "preco": 222222
+    },
+    {
+      "id": "88e8",
+      "nome": "teste",
+      "quantidade": 3,
+      "preco": 222222
+    }
+  ]
+}
